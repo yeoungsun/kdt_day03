@@ -1,3 +1,5 @@
 git 명령어 복습
 클론 시 명령어 작성
-git clone 주소 .
+git clone 주소
+
+깃허브에서 내용 수정
